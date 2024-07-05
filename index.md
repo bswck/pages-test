@@ -3,3 +3,9 @@
 
 !!! note
     This is a MkDocs-exclusive admonition?!
+
+:::note
+
+Maybe like this?
+
+:::
